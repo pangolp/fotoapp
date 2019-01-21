@@ -1,0 +1,6 @@
+VEnv/
+.pyc
+migrations/
+.gitignore.old
+__pycache__/
+SistemaFotocopiadoraCet
