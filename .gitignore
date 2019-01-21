@@ -4,3 +4,4 @@ migrations/
 .gitignore.old
 __pycache__/
 SistemaFotocopiadoraCet
+db.sqlite3
