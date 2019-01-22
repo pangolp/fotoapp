@@ -1,6 +1,8 @@
 
 from django.urls import path
 
+from apps.apuntes.views import Hola_Mundo
+
 urlpatterns = [
-    path('apunte/', include('apps.apuntes.urls'))
+    path('', Hola_Mundo)
 ]
